@@ -1,0 +1,19 @@
+{
+  "model": "jev-1.13.0",
+  "answers": {
+    "decision": {
+      "type": "choice",
+      "choice": "review",
+      "confidence": 1.0,
+      "probabilities": {
+        "approve": 0.0,
+        "deny": 0.0,
+        "review": 1.0
+      }
+    }
+  },
+  "usage": {
+    "input_tokens": 521,
+    "output_tokens": 38
+  }
+}
